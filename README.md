@@ -208,7 +208,7 @@ reselling these units at a markup.
 - [`wpfyorg/idu-unlock`](https://github.com/wpfyorg/idu-unlock) — the tool and
   the rootfs reading this is based on.
 - **Community-reported provenance for the flashing method:** Cyborg →
-  GeekyTwins server → WikiForce Discord → Sandip → DIY Daddy's public
+  GeekyTwins server → WikiForce Admin on Discord → Sandip → DIY Daddy's public
   documentation. This chain comes from community accounts and has not been
   independently verified end to end. DIY Daddy is credited as a publisher and
   reference, not presented as the method's originator.
