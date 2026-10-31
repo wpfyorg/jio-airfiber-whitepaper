@@ -179,11 +179,10 @@ get a shell you already have physical access to.
 ## 7. Timeline and disclosure
 
 - The handler was read out of stock rootfs images pulled from units on this
-  desk; no vendor contact, no bug bounty, no coordinated disclosure. These are
-  consumer routers, the firmware is shipped to the owner, and the files are on
-  the device you paid for.
-- Fixed by `R3.2.3` on the MediaTek branch. The vendor evidently found it
-  independently; their own comment names it.
+  desk. There was no coordinated disclosure and no bug bounty: the firmware is
+  shipped to the person who owns the device, and the files are on it.
+- Fixed by `R3.2.3` on the MediaTek branch, and the fix is the vendor's own -
+  their comment names the bug. It did not come from a report of ours.
 - Qualcomm branch: vulnerable at `R3.2.6` as of the last report, and no later
   build has been checked.
 - Published alongside a working, documented tool rather than on its own,
