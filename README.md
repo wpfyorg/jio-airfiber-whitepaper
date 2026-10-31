@@ -213,7 +213,7 @@ reselling these units at a markup.
   independently verified end to end. DIY Daddy is credited as a publisher and
   reference, not presented as the method's originator.
 - [DIY Daddy's public repository](https://github.com/the-diy-daddy/6j01_6j11) is
-  linked as one public document in that reported chain, not as the origin of the
+  linked as a public reference in that reported chain, not as the origin of the
   method. No UART pin photos are hosted or linked from this write-up.
 
 ## 10. Licence
