@@ -207,8 +207,15 @@ reselling these units at a markup.
 
 - [`wpfyorg/idu-unlock`](https://github.com/wpfyorg/idu-unlock) — the tool and
   the rootfs reading this is based on.
-- [`the-diy-daddy/6j01_6j11`](https://github.com/the-diy-daddy/6j01_6j11) — the
-  two-stage OpenWrt install this builds on.
+- **Community-reported provenance for the flashing method:** Cyborg →
+  GeekyTwins server → WikiForce Discord → Sandip → DIY Daddy's public
+  documentation. This chain comes from community accounts and has not been
+  independently verified end to end. DIY Daddy is credited as a publisher and
+  reference, not presented as the method's originator.
+- [DIY Daddy's public reference](https://github.com/the-diy-daddy/6j01_6j11) and
+  the original [Cyborg-built images](https://github.com/wpfyorg/idu-unlock/releases/tag/fw-2026.10)
+  are acknowledged as links for provenance; no UART pin photos are hosted or
+  linked from this write-up.
 
 ## 10. Licence
 
