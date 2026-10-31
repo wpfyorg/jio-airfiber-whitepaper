@@ -212,10 +212,9 @@ reselling these units at a markup.
   documentation. This chain comes from community accounts and has not been
   independently verified end to end. DIY Daddy is credited as a publisher and
   reference, not presented as the method's originator.
-- [DIY Daddy's public reference](https://github.com/the-diy-daddy/6j01_6j11) and
-  the original [Cyborg-built images](https://github.com/wpfyorg/idu-unlock/releases/tag/fw-2026.10)
-  are acknowledged as links for provenance; no UART pin photos are hosted or
-  linked from this write-up.
+- [DIY Daddy's public repository](https://github.com/the-diy-daddy/6j01_6j11) is
+  linked as one public document in that reported chain, not as the origin of the
+  method. No UART pin photos are hosted or linked from this write-up.
 
 ## 10. Licence
 
